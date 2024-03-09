@@ -1,0 +1,29 @@
+{
+  "name": "scrollbar-sdk-mrdx",
+  "version": "1.1.2",
+  "description": "scrollbar-sdk-mrdx",
+  "main": "index.js",
+  "files": [
+    "test",
+    "index.js"
+  ],
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "MrDx <huymsh2222@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/conlaigi1497/scrollbar-sdk-mrdx"
+  },
+  "keywords": [
+    "scrollbar-sdk-mrdx"
+  ],
+  "bugs": {
+    "url": "https://github.com/conlaigi1497/scrollbar-sdk-mrdx/issues"
+  },
+  "homepage": "https://github.com/conlaigi1497/scrollbar-sdk-mrdx#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
